@@ -1,1 +1,62 @@
-# yogabliss
+# YogaBlish  
+
+**YogaBlish** is study outlines the development of an online yoga studio platform focused on providing personalized classes, progress tracking, and secure user authentication through OTP-based registration.
+## Features
+
+- Manage trades and transactions
+- Track market trends and performance
+- Customizable trading dashboard
+- Real-time data updates
+- Email notifications for key trade events
+
+## Hero Section
+
+
+
+<img src='./Frontend/src/assets/Images/Hero.png' />
+
+
+## Categories Section
+
+
+
+<img src='./Frontend/src/assets/Images/category.png' />
+
+## Prerequisites
+
+- Node.js >= 16.x
+- npm or yarn
+- MongoDB (for local development)
+- SendGrid (for email notifications)
+
+## Installation
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/yourusername/tradehive.git
+cd tradehive 
+```
+
+### 2. Install dependencies
+
+```bash
+If you are using npm:
+npm install
+
+If you are using yarn:
+yarn install
+```
+
+### 3. Run the application
+
+```bash
+To start the development server, run:
+
+If you are using npm:
+npm start
+
+If you are using yarn:
+yarn start
+The app will be available at http://localhost:5173.
+```
