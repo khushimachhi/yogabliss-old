@@ -3,38 +3,38 @@
 **YogaBlish** is study outlines the development of an online yoga studio platform focused on providing personalized classes, progress tracking, and secure user authentication through OTP-based registration.
 ## Features
 
-- Manage trades and transactions
-- Track market trends and performance
-- Customizable trading dashboard
-- Real-time data updates
-- Email notifications for key trade events
+- Personalized Yoga Classes
+- Progress Tracking
+- Secure User Authentication
+- Easy Scheduling
+- Engaging Community Features
+- Inclusive Environment
 
 ## Hero Section
 
 
 
-<img src='./Frontend/src/assets/Images/Hero.png' />
+<img src='./Frontend/public/Landing.png' />
 
 
-## Categories Section
+## Instructor Section
 
 
 
-<img src='./Frontend/src/assets/Images/category.png' />
+<img src='./Frontend/public/instructor.png' />
 
 ## Prerequisites
 
 - Node.js >= 16.x
 - npm or yarn
 - MongoDB (for local development)
-- SendGrid (for email notifications)
 
 ## Installation
 
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/tradehive.git
+git clone https://github.com/khushimachhi/yogabliss-old.git
 cd tradehive 
 ```
 
