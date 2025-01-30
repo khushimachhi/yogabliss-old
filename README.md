@@ -21,7 +21,7 @@
 
 
 
-![Instructors](./Frontend/public/instructor.png)
+![Instructors](./frontend/public/instructor.png)
 
 ## Prerequisites
 
