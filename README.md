@@ -14,7 +14,7 @@
 
 
 
-![Landing Page](./Frontend/public/Landing.png)
+![Landing Page](./frontend/public/Landing.png)
 
 
 ## Instructor Section
