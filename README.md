@@ -14,14 +14,14 @@
 
 
 
-<img src='./Frontend/public/Landing.png' />
+![Landing Page](./Frontend/public/Landing.png)
 
 
 ## Instructor Section
 
 
 
-<img src='./Frontend/public/instructor.png' />
+![Instructors](./Frontend/public/instructor.png)
 
 ## Prerequisites
 
